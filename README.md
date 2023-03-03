@@ -2,7 +2,7 @@
 ## 👨‍💻Ingeniero Informatico
 ### Me interezan las areas de **Hardware** y **Desarrollo**.
 ### Los lenguajes de programación que mas utilizo son Java y PHP. Ademas de lo relacionado
-### con dichos leguajes, como ser:
+### con dichos lenguajes, como ser:
 
 - HTML
 - CSS
